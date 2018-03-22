@@ -9,6 +9,11 @@ public class HelloGit {
 		System.out.println("2_add_hotfix_git");
 		//2. marge 후 마스터 브랜치 수정 !!
 		System.out.println("3_add_master");
+		//3. github updata
+		System.out.println("4_github updata master");
+		
+		
+		
 	}
 
 }
