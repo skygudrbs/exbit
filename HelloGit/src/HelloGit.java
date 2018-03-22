@@ -5,6 +5,8 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 
 		System.out.println("1_hello_git");
+		//1. hotfix 추가 후 마스터 브렌치 수정 
+		System.out.println("2_add_hotfix_git");
 	}
 
 }
